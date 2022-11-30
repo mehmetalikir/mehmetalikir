@@ -1,7 +1,9 @@
 # Hej, I'm <a href="https://www.linkedin.com/in/mehmetalikir/" target="_blank">Mehmet A. Kir</a>! 👋
 
-<a href= "https://twitter.com/emutheegg"><img src="https://img.icons8.com/nolan/50/twitter.png"/></a>
-<a href= "https://www.linkedin.com/in/mehmetalikir/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
+<a href= "https://twitter.com/emutheegg"><img src="https://img.icons8.com/color/512/twitter.png"/></a>
+<a href= "https://www.linkedin.com/in/mehmetalikir/"><img src="https://img.icons8.com/cute-clipart/512/linkedin.png"/></a>
+
+
 
 ## About me!
 
