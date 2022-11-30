@@ -1,8 +1,4 @@
-# Hej, I'm <a href="https://www.linkedin.com/in/mehmetalikir/" target="_blank">Mehmet A. Kir</a>! 👋
-
-<a href= "https://twitter.com/emutheegg"><img src="https://img.icons8.com/color/50/twitter.png"/></a>
-<a href= "https://www.linkedin.com/in/mehmetalikir/"><img src="https://img.icons8.com/cute-clipart/50/linkedin.png"/></a>
-
+# Hej, I'm <a href="https://github.com/mehmetalikir/" target="_blank">Mehmet A. Kir</a>! 👋
 
 
 ## About me!
