@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hej, I'm <a href="https://www.linkedin.com/in/mehmetalikir/" target="_blank">Mehmet A. Kir</a>! 👋
 
-<!--
-**mehmetalikir/mehmetalikir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href= "https://twitter.com/emutheegg"><img src="https://img.icons8.com/nolan/50/twitter.png"/></a>
+<a href= "https://www.linkedin.com/in/mehmetalikir/"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
 
-Here are some ideas to get you started:
+## About me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cloud Guru 
+* <a href="https://www.credly.com/users/mehmet-ali-kir">Badges</a>
+
+<img src="https://github-readme-stats.vercel.app/api/?username=mehmetalikir&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+
+## Other Content
+* <a href="https://spacekids.com.au">Space Kids</a>
+* <a href="https://youtube.com/">Speaking and Events</a>
+
+## Reach out & connect
+
+[Email](mailto:mehmet@....com.au) 
