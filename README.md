@@ -12,7 +12,7 @@
 
 ## Other Content
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalikir&theme=blue-green)
-![Contributors Badge](https://contrib.rocks/image?repo=Your_GitHub_Username/bookeroo-sept-2021)
+
 
 * <a href="https://spacekids.com.au">Space Kids</a>
 * <a href="https://youtube.com/">Speaking and Events</a>
