@@ -15,7 +15,8 @@
 * <a href="https://spacekids.com.au">Space Kids</a>
 * <a href="https://youtube.com/">Speaking and Events</a>
 
-## 😂 Here is a random joke that'll make you laugh!\n![Jokes Card](https://readme-jokes.vercel.app/api)
+## 😂 Here is a random joke that'll make you laugh!\n
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Reach out & connect
 
